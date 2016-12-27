@@ -1,0 +1,24 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.5",
+    "morgan": "^1.7.0",
+    "path": "^0.12.7",
+    "pug": "^2.0.0-beta6",
+    "stylus": "^0.54.5"
+  },
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "nodemon": "^1.11.0"
+  }
+}
